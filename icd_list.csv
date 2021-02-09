@@ -1,0 +1,119 @@
+min,max,Label
+1,9,Intestinal Infectious Diseases
+10,18,Tuberculosis
+20,27,Zoonotic Bacterial Diseases
+30,41,Other Bacterial Diseases
+42,42,Human Immunodeficiency Virus
+45,49,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System
+50,59,Viral Diseases Accompanied By Exanthem
+60,66,Arthropod-Borne Viral Diseases
+70,79,Other Diseases Due To Viruses And Chlamydiae
+80,88,Rickettsioses And Other Arthropod-Borne Diseases
+90,99,Syphilis And Other Venereal Diseases
+100,104,Other Spirochetal Diseases
+110,118,Mycoses
+120,129,Helminthiases
+130,136,Other Infectious And Parasitic Diseases
+137,139,Late Effects Of Infectious And Parasitic Diseases
+140,149,Malignant Neoplasm Of Lip  Oral Cavity And Pharynx
+150,159,Malignant Neoplasm Of Digestive Organs And Peritoneum
+160,165,Malignant Neoplasm Of Respiratory And Intrathoracic Organs
+170,176,Malignant Neoplasm Of Bone  Connective Tissue Skin  And Breast
+179,189,Malignant Neoplasm Of Genitourinary Organs
+190,199,Malignant Neoplasm Of Other And Unspecified Sites
+200,209,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue
+210,229,Benign Neoplasms
+230,234,Carcinoma In Situ
+235,238,Neoplasms Of Uncertain Behavior
+239,239,Neoplasms Of Unspecified Nature
+240,246,Disorders Of Thyroid Gland
+249,259,Diseases Of Other Endocrine Glands
+260,269,Nutritional Deficiencies
+270,279,Other Metabolic Disorders And Immunity Disorders
+280,280,Iron deficiency anemias
+281,281,Other deficiency anemias
+282,282,Hereditary hemolytic anemias
+283,283,Acquired hemolytic anemias
+284,284,Aplastic anemia and other bone marrow failure syndromes
+285,285,Other and unspecified anemias
+286,286,Coagulation defects
+287,287,Purpura and other hemorrhagic conditions
+288,288,Diseases of white blood cells
+289,289,Other diseases of blood and blood-forming organs
+290,294,Organic Psychotic Conditions
+295,299,Other Psychoses
+300,316,Neurotic Disorders  Personality Disorders  And Other Nonpsychotic Mental Disorders
+317,319,Intellectual Disabilities
+320,327,Inflammatory Diseases Of The Central Nervous System
+330,337,Hereditary And Degenerative Diseases Of The Central Nervous System
+338,338,Pain
+339,339,Other Headache Syndromes
+340,349,Other Disorders Of The Central Nervous System
+350,359,Disorders Of The Peripheral Nervous System
+360,379,Disorders Of The Eye And Adnexa
+380,389,Diseases Of The Ear And Mastoid Process
+390,392,Acute Rheumatic Fever
+393,398,Chronic Rheumatic Heart Disease
+401,405,Hypertensive Disease
+410,414,Ischemic Heart Disease
+415,417,Diseases Of Pulmonary Circulation
+420,429,Other Forms Of Heart Disease
+430,438,Cerebrovascular Disease
+440,449,Diseases Of Arteries Arterioles  And Capillaries
+451,459,Diseases Of Veins And Lymphatics  And Other Diseases Of Circulatory System
+460,466,Acute Respiratory Infections
+470,478,Other Diseases Of Upper Respiratory Tract
+480,488,Pneumonia And Influenza
+490,496,Chronic Obstructive Pulmonary Disease And Allied Conditions
+500,508,Pneumoconioses And Other Lung Diseases Due To External Agents
+510,519,Other Diseases Of Respiratory System
+520,529,Diseases Of Oral Cavity  Salivary Glands  And Jaws
+530,539,Diseases Of Esophagus Stomach  And Duodenum
+540,543,Appendicitis
+550,553,Hernia Of Abdominal Cavity
+555,558,Noninfective Enteritis And Colitis
+560,569,Other Diseases Of Intestines And Peritoneum
+570,579,Other Diseases Of Digestive System
+580,589,Nephritis  Nephrotic Syndrome  And Nephrosis
+590,599,Other Diseases Of Urinary System
+600,608,Diseases Of Male Genital Organs
+610,612,Disorders Of Breast
+614,616,Inflammatory Disease Of Female Pelvic Organs
+617,629,Other Disorders Of Female Genital Tract
+630,639,Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome
+640,649,Complications Mainly Related To Pregnancy
+650,659,Normal Delivery  And Other Indications For Care In Pregnancy Labor  And Delivery
+660,669,Complications Occurring Mainly In The Course Of Labor And Delivery
+670,677,Complications Of The Puerperium
+678,679,Other Maternal And Fetal Complications
+680,686,Infections Of Skin And Subcutaneous Tissue
+690,698,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue
+700,709,Other Diseases Of Skin And Subcutaneous Tissue
+710,719,Arthropathies And Related Disorders
+720,724,Dorsopathies
+725,729,Rheumatism  Excluding The Back
+730,739,Osteopathies  Chondropathies  And Acquired Musculoskeletal Deformities
+740,740,cephalus and similar anomalies
+741,741,Spina bifida
+742,742,Other congenital anomalies of nervous system
+743,743,Congenital anomalies of eye
+744,744,Congenital anomalies of ear face and neck
+745,745,Bulbus cordis anomalies and anomalies of cardiac septal closure
+746,746,Other congenital anomalies of heart
+747,747,Other congenital anomalies of circulatory system
+748,748,Congenital anomalies of respiratory system
+749,749,Cleft palate and cleft lip
+750,750,Other congenital anomalies of upper alimentary tract
+751,751,Other congenital anomalies of digestive system
+752,752,Congenital anomalies of genital organs
+753,753,Congenital anomalies of urinary system
+754,754,Certain congenital musculoskeletal deformities
+755,755,Other congenital anomalies of limbs
+756,756,Other congenital musculoskeletal anomalies
+757,757,Congenital anomalies of the integument
+758,758,Chromosomal anomalies
+759,759,Other and unspecified congenital anomalies
+780,789,Symptoms
+790,796,Nonspecific Abnormal Findings
+797,799,Ill-Defined And Unknown Causes Of Morbidity And Mortality
+800,999,INJURY AND POISONING
